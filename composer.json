@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-di",
+    "description": "Scherzo-di is the dependency injection container used by the Scherzo educational web framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
